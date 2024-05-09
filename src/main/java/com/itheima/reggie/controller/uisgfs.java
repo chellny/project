@@ -6,4 +6,7 @@ package com.itheima.reggie.controller;
  * @Discription:
  */
 public class uisgfs {
+    public static void main(String[] args) {
+
+    }
 }
