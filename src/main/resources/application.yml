@@ -1,6 +1,11 @@
 server:
   port: 8080
 spring:
+  redis:
+    host: 192.168.119.145
+    port: 6379
+    password:
+    database: 0
   application:
     #应用的名称，可选
     name: reggie_take_out
